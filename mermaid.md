@@ -47,4 +47,4 @@ This is said flowchart.
 
 # Relations
 The labels on either side show the reasoning behind each decision.
-This diagram isn't __entirely__ accurate, as the attempt at a state diagram was directly influenced by the sequence diagram. However, the thought process could have essentially gone the other way, as was thus bifurcated.
+This diagram isn't _entirely_ accurate, as the attempt at a state diagram was directly influenced by the sequence diagram. However, the thought process could have essentially gone the other way, and was thus bifurcated.
