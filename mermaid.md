@@ -18,7 +18,6 @@ I had skimmed the Mermaid Documentation earlier, but only actual read it on the 
 I checked the diagram types and tried to come up with modelable scenarios.
 ## A sequence diagram of user-input validation
 This was something that I had a lot of experience with, both using and developing.
-<details>
 ```mermaid
 sequenceDiagram
     actor U as User
